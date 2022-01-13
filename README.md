@@ -1,4 +1,4 @@
-<h1><center>CS 7642 Spring 2021 Project 3: Replicating Greenwald & Hall 2003</center></h1>
+<h1><center>Replicating Greenwald & Hall 2003 Correlated Q-Learning</center></h1>
 <h2><center>Evan Jones</center></h2>
 <h3><center>April 16, 2021</center></h3>
 
